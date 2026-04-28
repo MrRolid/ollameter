@@ -117,6 +117,8 @@ model_name | prompt_id | server_key | speed (t/s) | tokens | duration | timestam
 Switching between prompts or servers in the main menu instantly refreshes the history column in the model table.
 
 ---
+<img width="1106" height="975" alt="2ae46283-029d-40a3-9f75-9602cf2bd4cd" src="https://github.com/user-attachments/assets/046368ff-53bc-4e45-95cb-e25808b14648" />
+
 
 ## Adding Custom Prompts
 
