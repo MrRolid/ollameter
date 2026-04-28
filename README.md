@@ -1,5 +1,4 @@
-# 🦙 ollapulse
-
+# 🦙 ollameter
 > A terminal benchmark tool for locally-hosted [Ollama](https://ollama.com) models.  
 > Test generation speed across multiple servers and prompt types — with live streaming output and persistent result history.
 
